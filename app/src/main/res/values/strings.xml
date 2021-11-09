@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GoogleFireAuth</string>
+    <string name="google_signin">Google SignIn</string>
+    <string name="logout">LogOut</string>
+
+</resources>
